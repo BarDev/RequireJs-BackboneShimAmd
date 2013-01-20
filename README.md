@@ -1,0 +1,1 @@
+This is the source code for the Blog Post on "Re-Learning Backbone.js – Require.js using Shim and AMD".  You can view the blog post at http://bardevblog.wordpress.com/2013/01/05/re-learning-backbone-js-require-js-and-amd/
