@@ -1,0 +1,2 @@
+﻿<div id="title" class="tableCell"><%=title%></div>
+<div id="releaseYear" class="tableCell"><%=releaseYear%></div>
